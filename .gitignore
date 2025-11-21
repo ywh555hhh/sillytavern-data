@@ -1,0 +1,8 @@
+content.log
+
+# 忽略自动生成的缩略图和缓存
+thumbnails/
+context/
+
+# 忽略备份文件，这些文件可能会很大，而且git本身就是版本控制
+backups/

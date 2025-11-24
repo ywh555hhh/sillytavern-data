@@ -5,4 +5,4 @@ thumbnails/
 context/
 
 # 忽略备份文件，这些文件可能会很大，而且git本身就是版本控制
-backups/
+backups/.DS_Store
